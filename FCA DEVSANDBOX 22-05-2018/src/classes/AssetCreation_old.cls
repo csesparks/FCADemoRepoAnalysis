@@ -2,7 +2,7 @@
 * @desc: This class invokes from Order object trigger and 
          Create the Asset based on the OrderItem which are of Type = 'Vehicle'.
 * @author: Abhinav
-* @version: 1.0
+* @version: 1.0...
 * 
 */
 public class AssetCreation_old {
